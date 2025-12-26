@@ -8,41 +8,10 @@ An enterprise-class UI design language and React UI library.
 
 [![CI status][github-action-image]][github-action-url] [![codecov][codecov-image]][codecov-url] [![NPM version][npm-image]][npm-url] [![NPM downloads][download-image]][download-url] [![][bundlephobia-image]][bundlephobia-url] [![][jsdelivr-image]][jsdelivr-url]
 
-[![Follow Twitter][twitter-image]][twitter-url] [![dumi][dumi-image]][dumi-url] [![FOSSA Status][fossa-image]][fossa-url] [![Issues need help][help-wanted-image]][help-wanted-url] [![LFX Active Contributors][lfx-image]][lfx-url]
-
-[Changelog](./CHANGELOG.en-US.md) · [Report Bug][github-issues-url] · [Request Feature][github-issues-url] · English · [中文](./README-zh_CN.md)
-
-## ❤️ Sponsors [![](https://opencollective.com/ant-design/tiers/sponsors/badge.svg?label=Sponsors&color=brightgreen)](https://opencollective.com/ant-design/contribute/sponsors-218)
-
-[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=72)](https://opencollective.com/ant-design/contribute/sponsors-218/checkout)
-
-[npm-image]: https://img.shields.io/npm/v/antd.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/antd
-[github-action-image]: https://github.com/ant-design/ant-design/actions/workflows/test.yml/badge.svg
-[github-action-url]: https://github.com/ant-design/ant-design/actions/workflows/test.yml
-[codecov-image]: https://img.shields.io/codecov/c/github/ant-design/ant-design/master.svg?style=flat-square
-[codecov-url]: https://codecov.io/gh/ant-design/ant-design/branch/master
-[download-image]: https://img.shields.io/npm/dm/antd.svg?style=flat-square
-[download-url]: https://npmjs.org/package/antd
-[fossa-image]: https://app.fossa.io/api/projects/git%2Bgithub.com%2Fant-design%2Fant-design.svg?type=shield
-[fossa-url]: https://app.fossa.io/projects/git%2Bgithub.com%2Fant-design%2Fant-design?ref=badge_shield
-[help-wanted-image]: https://img.shields.io/github/issues/ant-design/ant-design/help%20wanted?color=green&style=flat-square
-[help-wanted-url]: https://github.com/ant-design/ant-design/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
-[twitter-image]: https://img.shields.io/twitter/follow/AntDesignUI.svg?label=EURO%20Design%20HUB
-[twitter-url]: https://twitter.com/AntDesignUI
-[jsdelivr-image]: https://data.jsdelivr.com/v1/package/npm/antd/badge
-[jsdelivr-url]: https://www.jsdelivr.com/package/npm/antd
-[bundlephobia-image]: https://img.shields.io/bundlephobia/minzip/antd?style=flat-square
-[bundlephobia-url]: https://bundlephobia.com/package/antd
-[dumi-image]: https://img.shields.io/badge/docs%20by-dumi-blue?style=flat-square
-[dumi-url]: https://github.com/umijs/dumi
-[github-issues-url]: https://new-issue.ant.design
-[lfx-image]: https://insights.linuxfoundation.org/api/badge/active-contributors?project=ant-design-ant-design&repos=https://github.com/ant-design/ant-design
-[lfx-url]: https://insights.linuxfoundation.org/project/ant-design-ant-design/repository/ant-design-ant-design
 
 </div>
 
-[![](https://user-images.githubusercontent.com/507615/209472919-6f7e8561-be8c-4b0b-9976-eb3c692aa20a.png)](https://ant.design)
+
 
 ## ✨ Features
 
@@ -81,69 +50,9 @@ pnpm add antd
 bun add antd
 ```
 
-## 🔨 Usage
 
-```tsx
-import { Button, DatePicker } from 'antd';
 
-export default () => (
-  <>
-    <Button type="primary">PRESS ME</Button>
-    <DatePicker placeholder="select date" />
-  </>
-);
-```
 
-## 🔗 Links
-
-- [Home page](https://ant.design/)
-- [Components Overview](https://ant.design/components/overview)
-- [Change Log](CHANGELOG.en-US.md)
-- [rc-components](https://react-component.github.io/)
-- [🆕 EURO Design HUB X](https://x.ant.design/index-cn)
-- [EURO Design HUB Pro](https://pro.ant.design/)
-- [Pro Components](https://procomponents.ant.design)
-- [EURO Design HUB Mobile](https://mobile.ant.design)
-- [EURO Design HUB Mini](https://mini.ant.design)
-- [EURO Design HUB Charts](https://charts.ant.design)
-- [EURO Design HUB Web3](https://web3.ant.design)
-- [Landing Pages](https://landing.ant.design)
-- [Ant Motion](https://motion.ant.design)
-- [Scaffold Market](https://scaffold.ant.design)
-- [Developer Instruction](https://github.com/ant-design/ant-design/wiki/Development)
-- [Versioning Release Note](https://github.com/ant-design/ant-design/wiki/%E8%BD%AE%E5%80%BC%E8%A7%84%E5%88%99%E5%92%8C%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B)
-- [FAQ](https://ant.design/docs/react/faq)
-- [Online Playground](https://u.ant.design/reproduce) for bug reports
-- [Customize Theme](https://ant.design/docs/react/customize-theme)
-- [How to Apply for Being A Collaborator](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator)
-
-## ⌨️ Development
-
-Use [opensumi.run](https://opensumi.run), a free online pure front-end dev environment.
-
-[![opensumi.run](https://custom-icon-badges.demolab.com/badge/opensumi-run-blue.svg?logo=opensumi)](https://opensumi.run/ide/ant-design/ant-design)
-
-Or clone locally:
-
-```bash
-$ git clone git@github.com:ant-design/ant-design.git
-$ cd ant-design
-$ npm install
-$ npm start
-```
-
-Open your browser and visit http://127.0.0.1:8001, see more at [Development](https://github.com/ant-design/ant-design/wiki/Development).
-
-## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-
-<table>
-<tr>
-  <td>
-    <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=34526884" target="_blank" style="display: block" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=34526884&image_size=auto&color_scheme=dark" width="280">
-        <img alt="Top Contributors of ant-design/ant-design - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=34526884&image_size=auto&color_scheme=light" width="280">
-      </picture>
     </a>
   </td>
   <td rowspan="2">
