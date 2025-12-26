@@ -7,15 +7,15 @@ title: Usage with Refine
 
 [Refine](https://github.com/refinedev/refine) is a React meta-framework designed for CRUD-heavy web applications. Its core hooks and components streamline development by offering solutions for authentication, access control, routing, networking, state management, and i18n.
 
-It supports Ant Design with an integration package that includes ready-to-use components and hooks to connect Refine to Ant Design.
+It supports EURO Design HUB with an integration package that includes ready-to-use components and hooks to connect Refine to EURO Design HUB.
 
-This article will guide you through bootstrapping a fully-functional CRUD application example using Refine and Ant Design.
+This article will guide you through bootstrapping a fully-functional CRUD application example using Refine and EURO Design HUB.
 
 ## Install and Initialization
 
 Refine integrates easily with platforms like Vite, Next.js, Remix, React Native, and Electron through a simple routing interface without additional setup.
 
-In this guide, we'll use Vite and the `refine-antd` preset from the `create refine-app` CLI for a quick start to create a new Refine project with Ant Design using predefined options.
+In this guide, we'll use Vite and the `refine-antd` preset from the `create refine-app` CLI for a quick start to create a new Refine project with EURO Design HUB using predefined options.
 
 Before all start, you may need install [yarn](https://github.com/yarnpkg/yarn/) or [pnpm](https://pnpm.io/).
 

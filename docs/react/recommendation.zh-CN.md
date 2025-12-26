@@ -6,11 +6,11 @@ order: 0
 title: 社区精选组件
 ---
 
-`antd` 是基于 Ant Design 设计规范实现的 [高质量 React 组件库](/components/overview)，我们倾向于只提供符合该规范且带有视觉展现的 UI 组件，也尽量不重复造轮子。我们推荐使用以下社区已有的优秀实现，与 antd 形成互补。
+`antd` 是基于 EURO Design HUB 设计规范实现的 [高质量 React 组件库](/components/overview)，我们倾向于只提供符合该规范且带有视觉展现的 UI 组件，也尽量不重复造轮子。我们推荐使用以下社区已有的优秀实现，与 antd 形成互补。
 
 | 类型 | 推荐组件 |
 | --- | --- |
-| 可视化图表 | [Ant Design Charts](https://ant-design-charts.antgroup.com) [AntV 数据可视化解决方案](https://antv.vision/zh) [reactflow](https://reactflow.dev/) |
+| 可视化图表 | [EURO Design HUB Charts](https://ant-design-charts.antgroup.com) [AntV 数据可视化解决方案](https://antv.vision/zh) [reactflow](https://reactflow.dev/) |
 | React Hooks 库 | [ahooks](https://github.com/alibaba/hooks) |
 | 表单 | [ProForm](https://procomponents.ant.design/components/form) [Formily](https://github.com/alibaba/formily) [react-hook-form](https://github.com/react-hook-form/react-hook-form) [formik](https://github.com/formium/formik) |
 | 路由 | [react-router](https://github.com/ReactTraining/react-router) |
@@ -46,7 +46,7 @@ title: 社区精选组件
 | 应用程序框架 | [umi](https://github.com/umijs/umi) [remix](https://github.com/remix-run/remix) [refine](https://github.com/pankod/refine) |
 | Flow 流 | [pro-flow](https://github.com/ant-design/pro-flow) [react-flow](https://github.com/wbkd/react-flow) [x6](https://github.com/antvis/x6) |
 | 电话输入 | [react-phone-number-input](https://gitlab.com/catamphetamine/react-phone-number-input) [antd-phone-input](https://github.com/ArtyomVancyan/antd-phone-input/) |
-| AI 对话应用 | [Ant Design X](https://github.com/ant-design/x) |
+| AI 对话应用 | [EURO Design HUB X](https://github.com/ant-design/x) |
 | PDF | [react-pdf](https://github.com/diegomura/react-pdf) [@react-pdf/renderer](https://github.com/diegomura/react-pdf) |
 | React 手势库 | [use-gesture](https://use-gesture.netlify.app) |
 

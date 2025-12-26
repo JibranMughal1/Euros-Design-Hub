@@ -6,7 +6,7 @@ title: LLMs.txt
 tag: New
 ---
 
-This guide explains how to enable AI tools like Cursor, Windsurf, and Claude to better understand Ant Design.
+This guide explains how to enable AI tools like Cursor, Windsurf, and Claude to better understand EURO Design HUB.
 
 ## What is LLMs.txt?
 

@@ -189,8 +189,8 @@ async function generateSemanticDesc() {
   }
 
   // 生成 markdown 内容
-  let markdownContent = '# Ant Design 组件语义化描述\n\n';
-  markdownContent += '本文档包含了 Ant Design 组件库中所有组件的语义化描述信息。\n\n';
+  let markdownContent = '# EURO Design HUB 组件语义化描述\n\n';
+  markdownContent += '本文档包含了 EURO Design HUB 组件库中所有组件的语义化描述信息。\n\n';
   markdownContent += `> 总计 ${Object.keys(semanticDescriptions).length} 个组件包含语义化描述\n\n`;
   markdownContent += '## 组件列表\n\n';
 

@@ -33,7 +33,7 @@ const App: React.FC = () => {
           Not Show in Drawer
         </Button>
       </Flex>
-      <Watermark content="Ant Design">
+      <Watermark content="EURO Design HUB">
         <Modal
           destroyOnHidden
           open={showModal}
@@ -47,7 +47,7 @@ const App: React.FC = () => {
           {placeholder}
         </Drawer>
       </Watermark>
-      <Watermark content="Ant Design" inherit={false}>
+      <Watermark content="EURO Design HUB" inherit={false}>
         <Drawer destroyOnHidden open={showDrawer2} title="Drawer" onClose={closeDrawer2}>
           {placeholder}
         </Drawer>

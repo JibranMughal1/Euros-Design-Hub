@@ -1,5 +1,5 @@
 /**
- * Pre-publish script for Ant Design
+ * Pre-publish script for EURO Design HUB
  *
  * Environment Variables:
  * - SKIP_CI_CHECK: Set to any truthy value to skip remote CI status check

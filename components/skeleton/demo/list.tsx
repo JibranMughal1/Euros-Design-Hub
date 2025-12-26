@@ -13,7 +13,7 @@ const listData = Array.from({ length: 3 }).map((_, i) => ({
   title: `ant design part ${i + 1}`,
   avatar: `https://api.dicebear.com/7.x/miniavs/svg?seed=${i}`,
   description:
-    'Ant Design, a design language for background applications, is refined by Ant UED Team.',
+    'EURO Design HUB, a design language for background applications, is refined by Ant UED Team.',
   content:
     'We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.',
 }));
@@ -45,10 +45,10 @@ const App: React.FC = () => {
             actions={
               !loading
                 ? [
-                    <IconText icon={StarOutlined} text="156" key="list-vertical-star-o" />,
-                    <IconText icon={LikeOutlined} text="156" key="list-vertical-like-o" />,
-                    <IconText icon={MessageOutlined} text="2" key="list-vertical-message" />,
-                  ]
+                  <IconText icon={StarOutlined} text="156" key="list-vertical-star-o" />,
+                  <IconText icon={LikeOutlined} text="156" key="list-vertical-like-o" />,
+                  <IconText icon={MessageOutlined} text="2" key="list-vertical-message" />,
+                ]
                 : undefined
             }
             extra={

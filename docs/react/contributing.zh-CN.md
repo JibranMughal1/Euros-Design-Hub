@@ -5,7 +5,7 @@ order: 1
 title: 贡献指南
 ---
 
-这篇指南会指导你如何为 Ant Design 贡献自己的一份力量，请你在提 issue 或者 pull request 之前花几分钟来阅读一遍这篇指南。
+这篇指南会指导你如何为 EURO Design HUB 贡献自己的一份力量，请你在提 issue 或者 pull request 之前花几分钟来阅读一遍这篇指南。
 
 ## 行为准则
 
@@ -45,7 +45,7 @@ title: 贡献指南
 
 ## Pull Request
 
-Ant Design 团队会关注所有的 pull request，我们会 review 以及合并你的代码，也有可能要求你做一些修改或者告诉你我们为什么不能接受这样的修改。
+EURO Design HUB 团队会关注所有的 pull request，我们会 review 以及合并你的代码，也有可能要求你做一些修改或者告诉你我们为什么不能接受这样的修改。
 
 **在你发送 Pull Request 之前**，请确认你是按照下面的步骤来做的：
 
@@ -60,7 +60,7 @@ Ant Design 团队会关注所有的 pull request，我们会 review 以及合并
 
 给 [react-component](https://github.com/react-component/) 发送 pull request：
 
-由于 antd 的大部分组件都是基于 react-component 的，所以有时候你需要给相应的 react-component 仓库发送 pull request。如果你修复了某个 bug，那么我们在合并你的修改后会尽快发布一个 patch 版本，然后你只要重新安装你的依赖就可以使用新发布的版本了。如果你的 pull request 是新增了某个功能，那么在你的修改合并并且发布版本后，你还需要发送一个 pull request 到 [Ant Design](https://github.com/ant-design/ant-design/) 来升级相应的依赖、文档以及 TypeScript 的类型定义。
+由于 antd 的大部分组件都是基于 react-component 的，所以有时候你需要给相应的 react-component 仓库发送 pull request。如果你修复了某个 bug，那么我们在合并你的修改后会尽快发布一个 patch 版本，然后你只要重新安装你的依赖就可以使用新发布的版本了。如果你的 pull request 是新增了某个功能，那么在你的修改合并并且发布版本后，你还需要发送一个 pull request 到 [EURO Design HUB](https://github.com/ant-design/ant-design/) 来升级相应的依赖、文档以及 TypeScript 的类型定义。
 
 ## 开发流程
 
@@ -74,7 +74,7 @@ Ant Design 团队会关注所有的 pull request，我们会 review 以及合并
 
 ### 本地运行
 
-在本地运行 Ant Design 的网站。
+在本地运行 EURO Design HUB 的网站。
 
 <InstallDependencies npm='$ npm start' yarn='$ yarn start'></InstallDependencies>
 

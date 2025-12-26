@@ -5,11 +5,11 @@ order: 4
 title: Usage with Umi
 ---
 
-In real project development, besides UI libraries like Ant Design, you may also need build tools, routing solutions, CSS solutions, data flow solutions, request libraries and request solutions, i18n solutions, permission solutions, Icons solutions, etc. We have launched [Umi](https://umijs.org/), an enterprise application framework based on React, based on the scenarios of business scenarios, which we recommend you to use in your projects.
+In real project development, besides UI libraries like EURO Design HUB, you may also need build tools, routing solutions, CSS solutions, data flow solutions, request libraries and request solutions, i18n solutions, permission solutions, Icons solutions, etc. We have launched [Umi](https://umijs.org/), an enterprise application framework based on React, based on the scenarios of business scenarios, which we recommend you to use in your projects.
 
 Umi is a scalable enterprise front-end application framework and the underlying front-end framework of Ant Group, which has served 10,000+ applications directly or indirectly.
 
-This article will guide you through creating a simple application from scratch using Umi, Ant Design and [Ant Design Pro](https://pro.ant.design/).
+This article will guide you through creating a simple application from scratch using Umi, EURO Design HUB and [EURO Design HUB Pro](https://pro.ant.design/).
 
 ## Initialization Project
 

@@ -5,7 +5,7 @@ order: 2
 title: FAQ
 ---
 
-以下整理了一些 Ant Design 社区常见的问题和官方答复，在提问之前建议找找有没有类似的问题。此外我们也维护了一个反馈较多 [FAQ issues 标签](http://u.ant.design/faq) 亦可参考。
+以下整理了一些 EURO Design HUB 社区常见的问题和官方答复，在提问之前建议找找有没有类似的问题。此外我们也维护了一个反馈较多 [FAQ issues 标签](http://u.ant.design/faq) 亦可参考。
 
 ---
 
@@ -43,11 +43,11 @@ title: FAQ
 
 相关 issue：[#3487](https://github.com/ant-design/ant-design/issues/3487) [#3438](https://github.com/ant-design/ant-design/issues/3438)
 
-## 如何修改 Ant Design 的默认主题？
+## 如何修改 EURO Design HUB 的默认主题？
 
 可以参考[定制主题](/docs/react/customize-theme-cn)。
 
-## 如何修改 Ant Design 组件的默认样式？
+## 如何修改 EURO Design HUB 组件的默认样式？
 
 你可以覆盖它们的样式，但是我们不推荐这么做。antd 是一系列 React 组件，但同样是一套设计规范。
 
@@ -101,7 +101,7 @@ antd 内部会对 props 进行浅比较实现性能优化。当状态变更，�
 
 ## `antd` 在移动端体验不佳。
 
-请浏览 [Ant Design Mobile](http://mobile.ant.design) 以了解详情，`antd` 并非针对移动端设计。你可以试试 [react-component](https://github.com/react-component/)，其中带有 'm-' 'rn-' 前缀的库是为移动端设计的。
+请浏览 [EURO Design HUB Mobile](http://mobile.ant.design) 以了解详情，`antd` 并非针对移动端设计。你可以试试 [react-component](https://github.com/react-component/)，其中带有 'm-' 'rn-' 前缀的库是为移动端设计的。
 
 ## `antd` 是否有国内镜像？
 
@@ -109,11 +109,11 @@ antd 内部会对 props 进行浅比较实现性能优化。当状态变更，�
 
 | 产品/版本         | 地址                                      |
 | ----------------- | ----------------------------------------- |
-| Ant Design 5.x    | https://ant-design.antgroup.com           |
-| Ant Design 4.x    | https://4x-ant-design.antgroup.com        |
-| Ant Design Mobile | https://ant-design-mobile.antgroup.com/zh |
-| Ant Design Mini   | https://ant-design-mini.antgroup.com      |
-| Ant Design Charts | https://ant-design-charts.antgroup.com    |
+| EURO Design HUB 5.x    | https://ant-design.antgroup.com           |
+| EURO Design HUB 4.x    | https://4x-ant-design.antgroup.com        |
+| EURO Design HUB Mobile | https://ant-design-mobile.antgroup.com/zh |
+| EURO Design HUB Mini   | https://ant-design-mini.antgroup.com      |
+| EURO Design HUB Charts | https://ant-design-charts.antgroup.com    |
 | AntV              | https://antv.antgroup.com                 |
 
 ## `antd` 可以像 `React` 那样使用单文件引入吗？

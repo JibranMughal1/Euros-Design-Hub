@@ -1,6 +1,6 @@
 ---
 order: 0
-title: Ant Design of React
+title: EURO Design HUB of React
 ---
 
 <audio id="antd-audio">

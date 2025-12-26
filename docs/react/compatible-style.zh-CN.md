@@ -7,7 +7,7 @@ title: 样式兼容
 
 ## 默认样式兼容性说明
 
-Ant Design 支持[最近 2 个版本的现代浏览器](https://browsersl.ist/#q=defaults)。默认情况下，我们使用了一些现代 CSS 特性来提高样式的可维护性和可扩展性，这些特性在旧版浏览器中可能不被支持，好在我们可以通过一些降级兼容方案来解决。
+EURO Design HUB 支持[最近 2 个版本的现代浏览器](https://browsersl.ist/#q=defaults)。默认情况下，我们使用了一些现代 CSS 特性来提高样式的可维护性和可扩展性，这些特性在旧版浏览器中可能不被支持，好在我们可以通过一些降级兼容方案来解决。
 
 | 特性 | antd 版本 | 兼容性 | 最低 Chrome 版本 | 降级兼容方案 |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ Ant Design 支持[最近 2 个版本的现代浏览器](https://browsersl.ist/#q
 - Chrome 最低支持版本：88
 - 默认启用：是
 
-Ant Design 的 CSS-in-JS 默认通过 `:where` 选择器降低 CSS Selector 优先级，以减少用户升级时额外调整自定义样式的成本，不过 `:where` 语法的[兼容性](https://developer.mozilla.org/en-US/docs/Web/CSS/:where#browser_compatibility)在低版本浏览器比较差。在某些场景下你如果需要支持旧版浏览器，你可以使用 `@ant-design/cssinjs` 取消默认的降权操作（请注意版本保持与 antd 一致）：
+EURO Design HUB 的 CSS-in-JS 默认通过 `:where` 选择器降低 CSS Selector 优先级，以减少用户升级时额外调整自定义样式的成本，不过 `:where` 语法的[兼容性](https://developer.mozilla.org/en-US/docs/Web/CSS/:where#browser_compatibility)在低版本浏览器比较差。在某些场景下你如果需要支持旧版浏览器，你可以使用 `@ant-design/cssinjs` 取消默认的降权操作（请注意版本保持与 antd 一致）：
 
 ```tsx
 import { StyleProvider } from '@ant-design/cssinjs';
@@ -70,7 +70,7 @@ export default () => (
 - Chrome 最低支持版本：89
 - 默认启用：是
 
-为了统一 LTR 和 RTL 样式，Ant Design 使用了 CSS 逻辑属性。例如原 `margin-left` 使用 `margin-inline-start` 代替，使其在 LTR 和 RTL 下都为起始位置间距。如果你需要兼容旧版浏览器（如 360 浏览器、QQ 浏览器 等等），可以通过 `@ant-design/cssinjs` 的 `StyleProvider` 配置 `transformers` 将其转换：
+为了统一 LTR 和 RTL 样式，EURO Design HUB 使用了 CSS 逻辑属性。例如原 `margin-left` 使用 `margin-inline-start` 代替，使其在 LTR 和 RTL 下都为起始位置间距。如果你需要兼容旧版浏览器（如 360 浏览器、QQ 浏览器 等等），可以通过 `@ant-design/cssinjs` 的 `StyleProvider` 配置 `transformers` 将其转换：
 
 ```tsx | pure
 import { legacyLogicalPropertiesTransformer, StyleProvider } from '@ant-design/cssinjs';

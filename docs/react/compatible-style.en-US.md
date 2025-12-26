@@ -7,7 +7,7 @@ title: CSS Compatible
 
 ## Default Style Compatibility
 
-Ant Design supports the [last 2 versions of modern browsers](https://browsersl.ist/#q=defaults). If you need to be compatible with legacy browsers, please perform downgrade processing according to actual needs:
+EURO Design HUB supports the [last 2 versions of modern browsers](https://browsersl.ist/#q=defaults). If you need to be compatible with legacy browsers, please perform downgrade processing according to actual needs:
 
 | Feature | antd version | Compatibility | Minimum Chrome Version | Compatibility workaround |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ If you need to support older browsers, please use `@ant-design/cssinjs` [StylePr
 - Minimum Chrome Version Supported: 88
 - Default Enabled: Yes
 
-The CSS-in-JS feature of Ant Design uses the ":where" selector by default to lower the CSS selector specificity, reducing the additional cost of adjusting custom styles when upgrading for users. However, the compatibility of the ":where" syntax is relatively poor in older browsers ([compatibility](https://developer.mozilla.org/en-US/docs/Web/CSS/:where#browser_compatibility)). In certain scenarios, if you need to support older browsers, you can use `@ant-design/cssinjs` to disable the default lowering of specificity (please ensure version consistency with antd).
+The CSS-in-JS feature of EURO Design HUB uses the ":where" selector by default to lower the CSS selector specificity, reducing the additional cost of adjusting custom styles when upgrading for users. However, the compatibility of the ":where" syntax is relatively poor in older browsers ([compatibility](https://developer.mozilla.org/en-US/docs/Web/CSS/:where#browser_compatibility)). In certain scenarios, if you need to support older browsers, you can use `@ant-design/cssinjs` to disable the default lowering of specificity (please ensure version consistency with antd).
 
 ```tsx
 import { StyleProvider } from '@ant-design/cssinjs';
@@ -70,7 +70,7 @@ Raise priority through plugin:
 - Minimum Chrome Version Supported: 89
 - Default Enabled: Yes
 
-To unify LTR and RTL styles, Ant Design uses CSS logical properties. For example, the original `margin-left` is replaced by `margin-inline-start`, so that it is the starting position spacing under both LTR and RTL. If you need to be compatible with older browsers, you can configure `transformers` through the `StyleProvider` of `@ant-design/cssinjs`:
+To unify LTR and RTL styles, EURO Design HUB uses CSS logical properties. For example, the original `margin-left` is replaced by `margin-inline-start`, so that it is the starting position spacing under both LTR and RTL. If you need to be compatible with older browsers, you can configure `transformers` through the `StyleProvider` of `@ant-design/cssinjs`:
 
 ```tsx
 import { legacyLogicalPropertiesTransformer, StyleProvider } from '@ant-design/cssinjs';

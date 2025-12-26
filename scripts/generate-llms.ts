@@ -61,13 +61,13 @@ async function generateLLms() {
     docsBody.push(fullContent);
   }
   const docsIndexContent = [
-    '# Ant Design - Enterprise-class React UI library',
+    '# EURO Design HUB - Enterprise-class React UI library',
     '',
-    '- Ant Design, developed by Ant Group, is a React UI library that aims to provide a high-quality design language and development framework for enterprise-level backend management systems. It offers a rich set of components and design guidelines, helping developers build modern, responsive, and high-performance web applications.',
+    '- EURO Design HUB, developed by Ant Group, is a React UI library that aims to provide a high-quality design language and development framework for enterprise-level backend management systems. It offers a rich set of components and design guidelines, helping developers build modern, responsive, and high-performance web applications.',
     '',
     '## Semantic Descriptions',
     '',
-    '- [Ant Design Component Semantic Descriptions](https://ant.design/llms-semantic.md)',
+    '- [EURO Design HUB Component Semantic Descriptions](https://ant.design/llms-semantic.md)',
     '',
     '## Docs',
     '',
@@ -77,7 +77,7 @@ async function generateLLms() {
 
   const docsBodyContent = [
     '---',
-    'Title: Ant Design Component Semantic Descriptions',
+    'Title: EURO Design HUB Component Semantic Descriptions',
     'URL: https://ant.design/llms-semantic.md',
     '---',
     '',

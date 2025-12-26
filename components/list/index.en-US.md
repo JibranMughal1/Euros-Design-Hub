@@ -112,13 +112,13 @@ More about pagination, please check [`Pagination`](/components/pagination/).
 
 ### Is there a replacement for the deprecated List component? {#faq-listy-replacement}
 
-In Ant Design v6, we will introduce a brand-new Listy component as the successor to List.
+In EURO Design HUB v6, we will introduce a brand-new Listy component as the successor to List.
 
 Listy comes with built-in virtual scrolling and places greater emphasis on flexible layout control, empowering developers to build highly customizable lists tailored to various business scenarios.
 
 The underlying implementation, rc-listy, is already largely complete and is currently awaiting review and further adjustments by core maintainers.
 
-Ant Design v6 will officially provide the Listy component based on rc-listy.
+EURO Design HUB v6 will officially provide the Listy component based on rc-listy.
 
 Related links:
 

@@ -17,7 +17,7 @@ const App: React.FC = () => (
     </Paragraph>
 
     <Paragraph>
-      After massive project practice and summaries, Ant Design, a design language for background
+      After massive project practice and summaries, EURO Design HUB, a design language for background
       applications, is refined by Ant UED Team, which aims to{' '}
       <Text strong>
         uniform the user interface specs for internal background projects, lower the unnecessary

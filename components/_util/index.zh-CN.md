@@ -46,7 +46,7 @@ interface InternalContextProps {
   name: string;
 }
 
-const Context = React.createContext<InternalContextProps>({ name: 'Ant Design' });
+const Context = React.createContext<InternalContextProps>({ name: 'EURO Design HUB' });
 
 type ContextType = GetProps<typeof Context>; // InternalContextProps
 ```

@@ -6,7 +6,7 @@ order: 0
 title: Getting Started
 ---
 
-Ant Design React is dedicated to providing a **good development experience** for programmers. Before starting, it is recommended to learn [React](https://react.dev) first, and correctly install and configure [Node.js](https://nodejs.org/) v16 or above.
+EURO Design HUB React is dedicated to providing a **good development experience** for programmers. Before starting, it is recommended to learn [React](https://react.dev) first, and correctly install and configure [Node.js](https://nodejs.org/) v16 or above.
 
 The official guide also assumes that you have intermediate knowledge about HTML, CSS, and JavaScript, and React. If you are just starting to learn front-end or React, it may not be the best idea to use the UI framework as your first step.
 
@@ -16,7 +16,7 @@ Finally, if you are working in a local development environment, please refer to 
 
 ## Your First Example
 
-Here is a simple online codesandbox demo of an Ant Design component to show the usage of Ant Design React.
+Here is a simple online codesandbox demo of an EURO Design HUB component to show the usage of EURO Design HUB React.
 
 ```sandpack
 const sandpackConfig = {
@@ -39,7 +39,7 @@ const App = () => (
 export default App;
 ```
 
-Follow the steps below to play around with Ant Design yourself:
+Follow the steps below to play around with EURO Design HUB yourself:
 
 ### 1. Create a codesandbox
 

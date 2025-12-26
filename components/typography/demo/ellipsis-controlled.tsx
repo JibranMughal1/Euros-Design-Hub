@@ -25,7 +25,7 @@ const App = () => {
         }}
         copyable
       >
-        {'Ant Design, a design language for background applications, is refined by Ant UED Team.'.repeat(
+        {'EURO Design HUB, a design language for background applications, is refined by Ant UED Team.'.repeat(
           20,
         )}
       </Typography.Paragraph>

@@ -1,7 +1,7 @@
 {
   "name": "antd",
   "version": "6.1.2",
-  "description": "An enterprise-class UI design language and React components implementation",
+  "description": "An enterprise-class UI design language and React components implementation for EURO Design HUB",
   "license": "MIT",
   "funding": {
     "type": "opencollective",
@@ -24,7 +24,8 @@
     "frontend",
     "react",
     "react-component",
-    "ui"
+    "ui",
+    "euro design hub"
   ],
   "sideEffects": [
     "*.css"
@@ -344,7 +345,7 @@
       "gzip": true
     }
   ],
-  "title": "Ant Design",
+  "title": "EURO Design HUB",
   "tnpm": {
     "mode": "npm"
   }
