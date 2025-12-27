@@ -136,47 +136,6 @@ const HeaderNavigation: React.FC<NavigationProps> = (props) => {
   const items: MenuProps['items'] = [
     {
       label: (
-        <Link to={utils.getLocalizedPathname('/docs/spec/introduce', isZhCN, search)}>
-          {locale.design}
-        </Link>
-      ),
-      key: 'docs/spec',
-    },
-    {
-      label: (
-        <Link to={utils.getLocalizedPathname('/docs/react/introduce', isZhCN, search)}>
-          {locale.development}
-        </Link>
-      ),
-      key: 'docs/react',
-    },
-    {
-      label: (
-        <Link to={utils.getLocalizedPathname('/components/overview/', isZhCN, search)}>
-          {locale.components}
-        </Link>
-      ),
-      key: 'components',
-    },
-    blogList.length
-      ? {
-          label: (
-            <Link
-              to={utils.getLocalizedPathname(
-                blogList.sort((a, b) => (a.frontmatter?.date > b.frontmatter?.date ? -1 : 1))[0]
-                  .link,
-                isZhCN,
-                search,
-              )}
-            >
-              {locale.blog}
-            </Link>
-          ),
-          key: 'docs/blog',
-        }
-      : null,
-    {
-      label: (
         <Link to={utils.getLocalizedPathname('/docs/resources', isZhCN, search)}>
           {locale.resources}
         </Link>
@@ -185,13 +144,13 @@ const HeaderNavigation: React.FC<NavigationProps> = (props) => {
     },
     isZhCN
       ? {
-          key: 'mirror',
-          label: (
-            <a href="https://ant-design.antgroup.com" target="_blank" rel="noreferrer">
-              国内镜像
-            </a>
-          ),
-        }
+        key: 'mirror',
+        label: (
+          <a href="https://ant-design.antgroup.com" target="_blank" rel="noreferrer">
+            国内镜像
+          </a>
+        ),
+      }
       : null,
     ...(additional ?? []),
   ].filter(Boolean);

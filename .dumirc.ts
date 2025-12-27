@@ -23,8 +23,8 @@ export default defineConfig({
   ssr:
     process.env.NODE_ENV === 'production'
       ? {
-          builder: 'mako',
-        }
+        builder: 'mako',
+      }
       : false,
   hash: true,
   mfsu: false,
@@ -68,8 +68,8 @@ export default defineConfig({
     process.env.NODE_ENV === 'production'
       ? false
       : {
-          analyzerPort: 'auto',
-        },
+        analyzerPort: 'auto',
+      },
   links: [
     {
       rel: 'prefetch',
@@ -141,9 +141,9 @@ export default defineConfig({
         const pathname = path.indexOf('/') === 0 ? path : '/' + path;
         if (!zhCN) {
           // to enUS
-          return /\\/?index(-cn)?/.test(pathname) ? '/' : pathname.replace('-cn', '');
+          return /^\\/?index(-cn)?/.test(pathname) ? '/docs/resources' : pathname.replace('-cn', '');
         } else if (pathname === '/') {
-          return '/index-cn';
+          return '/docs/resources-cn';
         } else if (pathname.indexOf('/') === pathname.length - 1) {
           return pathname.replace(/\\/$/, '-cn/');
         }
@@ -189,11 +189,11 @@ export default defineConfig({
     // Only enable clarity in production environment
     process.env.NODE_ENV === 'production'
       ? {
-          async: true,
-          content: fs
-            .readFileSync(path.join(__dirname, '.dumi', 'scripts', 'clarity.js'))
-            .toString(),
-        }
+        async: true,
+        content: fs
+          .readFileSync(path.join(__dirname, '.dumi', 'scripts', 'clarity.js'))
+          .toString(),
+      }
       : null,
   ].filter((script) => !!script),
 });
