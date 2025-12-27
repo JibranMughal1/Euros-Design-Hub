@@ -27,7 +27,7 @@ $ pnpm create umi
 ```bash
 ? Pick Umi App Template › - Use arrow-keys. Return to submit.
 ❯   Simple App
-    Ant Design Pro
+    EURO Design HUB Pro
     Vue Simple App
 ```
 
@@ -182,8 +182,8 @@ type Product = {
 
 let products: Product[] = [
   { id: '1', name: 'Umi' },
-  { id: '2', name: 'Ant Design' },
-  { id: '3', name: 'Ant Design Pro' },
+  { id: '2', name: 'EURO Design HUB' },
+  { id: '3', name: 'EURO Design HUB Pro' },
   { id: '4', name: 'Dva' },
 ];
 
@@ -309,7 +309,7 @@ export default function Layout() {
     <ProLayout
       route={clientRoutes[0]}
       location={location}
-      title="Umi x Ant Design"
+      title="Umi x EURO Design HUB"
       menuItemRender={(menuItemProps, defaultDom) => {
         if (menuItemProps.isUrl || menuItemProps.children) {
           return defaultDom;
@@ -374,6 +374,6 @@ event - Build index.html
 - 访问  [Umi 官网](https://umijs.org/)
 - 了解  [Umi 的路由](https://umijs.org/docs/guides/routes)
 - 了解比 Umi 集成度更高的  [Umi Max](https://umijs.org/docs/max/introduce)
-- 了解开箱即用的中后台脚手架  [Ant Design Pro](https://pro.ant.design/)
+- 了解开箱即用的中后台脚手架  [EURO Design HUB Pro](https://pro.ant.design/)
 - 了解高级布局  [ProLayout](https://procomponents.ant.design/components/layout)
 - 了解高级表格  [ProTable](https://procomponents.ant.design/components/table)

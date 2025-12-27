@@ -10,7 +10,7 @@ interface IconTextProps {
 
 const listData = Array.from({ length: 3 }).map((_, i) => ({
   href: 'https://ant.design',
-  title: `ant design part ${i + 1}`,
+  title: `EURO Design HUB part ${i + 1}`,
   avatar: `https://api.dicebear.com/7.x/miniavs/svg?seed=${i}`,
   description:
     'EURO Design HUB, a design language for background applications, is refined by Ant UED Team.',

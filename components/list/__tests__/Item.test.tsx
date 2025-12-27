@@ -10,10 +10,10 @@ describe('List Item Layout', () => {
     {
       key: 1,
       href: 'https://ant.design',
-      title: 'ant design',
+      title: 'EURO Design HUB',
       avatar: 'https://api.dicebear.com/7.x/miniavs/svg?seed=10',
       description:
-        'Ant Design, a design language for background applications, is refined by Ant UED Team.',
+        'EURO Design HUB, a design language for background applications, is refined by Ant UED Team.',
       content:
         'We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.',
       extra: 'extra',
@@ -137,15 +137,15 @@ describe('List Item Layout', () => {
     const dataWithId = [
       {
         id: 1,
-        title: `ant design`,
+        title: `EURO Design HUB`,
       },
       {
         id: 2,
-        title: `ant design`,
+        title: `EURO Design HUB`,
       },
       {
         id: 3,
-        title: `ant design`,
+        title: `EURO Design HUB`,
       },
     ];
     const { container: wrapper } = render(
@@ -162,15 +162,15 @@ describe('List Item Layout', () => {
     const dataWithId = [
       {
         id: 1,
-        title: `ant design`,
+        title: `EURO Design HUB`,
       },
       {
         id: 2,
-        title: `ant design`,
+        title: `EURO Design HUB`,
       },
       {
         id: 3,
-        title: `ant design`,
+        title: `EURO Design HUB`,
       },
     ];
     const { container: wrapper } = render(
@@ -210,7 +210,7 @@ describe('List Item Layout', () => {
     };
     const getDom = (id = 1) => (
       <List
-        dataSource={[{ id, title: `ant design` }]}
+        dataSource={[{ id, title: `EURO Design HUB` }]}
         rowKey={(item) => item.id}
         renderItem={(item) => (
           <List.Item>
@@ -228,7 +228,7 @@ describe('List Item Layout', () => {
   it('List.Item.Meta title should have no default margin', () => {
     render(
       <List
-        dataSource={[{ id: 1, title: `ant design` }]}
+        dataSource={[{ id: 1, title: `EURO Design HUB` }]}
         renderItem={(item) => (
           <List.Item>
             <List.Item.Meta title={item.title} />
@@ -245,7 +245,7 @@ describe('List Item Layout', () => {
   });
 
   it('List.Item support styles and classNames', () => {
-    const dataSource = [{ id: 1, title: `ant design` }];
+    const dataSource = [{ id: 1, title: `EURO Design HUB` }];
     const getItem = (item: any, provider?: boolean) => {
       const styles = provider ? { extra: { color: 'red' }, actions: { color: 'blue' } } : undefined;
       return (

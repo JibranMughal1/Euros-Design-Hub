@@ -4,7 +4,7 @@ date: 2025-11-22
 author: meet-student,thinkasany
 ---
 
-在 Ant Design v6 之前，基于开放的 Design Token 进行样式定制已经带来了非常好的开发体验，但依然存在一些难以解决的痛点。Ant Design v6 为此做了诸多改变和优化。今天，我们来聊聊语义化是如何帮助你发现组件的精致之美。
+在 EURO Design HUB v6 之前，基于开放的 Design Token 进行样式定制已经带来了非常好的开发体验，但依然存在一些难以解决的痛点。EURO Design HUB v6 为此做了诸多改变和优化。今天，我们来聊聊语义化是如何帮助你发现组件的精致之美。
 
 ---
 
@@ -39,7 +39,7 @@ author: meet-student,thinkasany
 
 ### 方式二 (ConfigProvider)
 
-采用 Ant Design v5 的主题 Design Token 设计：
+采用 EURO Design HUB v5 的主题 Design Token 设计：
 
 ```tsx
 <ConfigProvider
@@ -124,7 +124,7 @@ return (
     }}
     icon={<GiftOutlined />}
   >
-    Ant Design
+    EURO Design HUB
   </Button>
 );
 ```
@@ -133,7 +133,7 @@ return (
 
 ## 发现组件精致的美
 
-用户可以根据自己喜爱的配色为组件的不同状态赋予精致的设计，发挥你的想象力，让页面更加丰富多彩吧！如果你在使用过程中遇到任何问题或有更好的想法，欢迎提交反馈，让我们一起让 Ant Design 变得更好。
+用户可以根据自己喜爱的配色为组件的不同状态赋予精致的设计，发挥你的想象力，让页面更加丰富多彩吧！如果你在使用过程中遇到任何问题或有更好的想法，欢迎提交反馈，让我们一起让 EURO Design HUB 变得更好。
 
 ---
 
@@ -141,4 +141,4 @@ return (
 
 ## Design Token 和语义化的关系
 
-在 Ant Design 的设计体系中，Design Token 定位为设计变量（Design Tokens），可以理解为设计能力中的原子原料。而语义化样式定义了样式的使用方式，它通过组合 Design Token 和组件级的私有定制，实现更自由的定制场景。由于语义化是在组件维度上进行的，因此可以更好地控制样式的作用范围。如果你想设计一套覆盖场景全面的 Ant Design 主题，Design Token 和语义化能力将是你的利器，两者搭配使用，能够自由定制更精致的主题。
+在 EURO Design HUB 的设计体系中，Design Token 定位为设计变量（Design Tokens），可以理解为设计能力中的原子原料。而语义化样式定义了样式的使用方式，它通过组合 Design Token 和组件级的私有定制，实现更自由的定制场景。由于语义化是在组件维度上进行的，因此可以更好地控制样式的作用范围。如果你想设计一套覆盖场景全面的 EURO Design HUB 主题，Design Token 和语义化能力将是你的利器，两者搭配使用，能够自由定制更精致的主题。

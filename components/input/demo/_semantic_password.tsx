@@ -39,7 +39,7 @@ const App: React.FC = () => {
         showCount
         prefix={<UserOutlined />}
         suffix={<EditOutlined />}
-        defaultValue="Hello, Ant Design"
+        defaultValue="Hello, EURO Design HUB"
       />
     </SemanticPreview>
   );

@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="180" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
+<img height="180" src="public/logo.png">
 
 <h1>EURO Design HUB</h1>
 

@@ -107,10 +107,10 @@ EURO Design HUB 团队会关注所有的 pull request，我们会 review 以及�
 
 ## 加入社区
 
-如果你的贡献度足够高，并且希望和 Ant Design 团队一起参与维护工作，你可以[申请成为社区协作者](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator)。
+如果你的贡献度足够高，并且希望和 EURO Design HUB 团队一起参与维护工作，你可以[申请成为社区协作者](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator)。
 
 你还可以参考下面三篇社区成员写的贡献指南，一步一步成为 antd 的贡献者吧：
 
-- [记录向：如何快速的成为 Ant Design 的 contributor](https://zhuanlan.zhihu.com/p/123367842) [@Rustin-Liu](https://github.com/Rustin-Liu)
+- [记录向：如何快速的成为 EURO Design HUB 的 contributor](https://zhuanlan.zhihu.com/p/123367842) [@Rustin-Liu](https://github.com/Rustin-Liu)
 - [从 0 开始，成为 Ant-Design Contributor](https://zhuanlan.zhihu.com/p/143895612) [@fireairforce](https://github.com/fireairforce)
 - [如何成长为 Collaborator](/docs/blog/to-be-collaborator-cn)

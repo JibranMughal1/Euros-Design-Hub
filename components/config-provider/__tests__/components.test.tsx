@@ -355,8 +355,8 @@ describe('ConfigProvider', () => {
             <List.Item.Meta
               {...props}
               avatar={<Avatar src="https://api.dicebear.com/7.x/miniavs/svg?seed=9" />}
-              title="Ant Design"
-              description="Ant Design, a design language for background applications, is refined by Ant UED Team"
+              title="EURO Design HUB"
+              description="EURO Design HUB, a design language for background applications, is refined by Ant UED Team"
             />
           </List.Item>
         )}

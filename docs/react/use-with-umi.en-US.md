@@ -27,7 +27,7 @@ Select "Simple App" here, because we want to start from "scratch".
 ```bash
 ? Pick Umi App Template › - Use arrow-keys. Return to submit.
 ❯   Simple App
-    Ant Design Pro
+    EURO Design HUB Pro
     Vue Simple App
 ```
 
@@ -182,8 +182,8 @@ type Product = {
 
 let products: Product[] = [
   { id: '1', name: 'Umi' },
-  { id: '2', name: 'Ant Design' },
-  { id: '3', name: 'Ant Design Pro' },
+  { id: '2', name: 'EURO Design HUB' },
+  { id: '3', name: 'EURO Design HUB Pro' },
   { id: '4', name: 'Dva' },
 ];
 
@@ -309,7 +309,7 @@ export default function Layout() {
     <ProLayout
       route={clientRoutes[0]}
       location={location}
-      title="Umi x Ant Design"
+      title="Umi x EURO Design HUB"
       menuItemRender={(menuItemProps, defaultDom) => {
         if (menuItemProps.isUrl || menuItemProps.children) {
           return defaultDom;
@@ -374,6 +374,6 @@ You can.
 - Visit [Umi official website](https://umijs.org/)
 - Learn about [Umi's Routing](https://umijs.org/docs/guides/routes)
 - Learn about [Umi Max](https://umijs.org/docs/max/introduce), which is more integrated than Umi
-- Learn about the out-of-the-box middle and backend scaffolding [Ant Design Pro](https://pro.ant.design/)
+- Learn about the out-of-the-box middle and backend scaffolding [EURO Design HUB Pro](https://pro.ant.design/)
 - Learn about advanced layouts [ProLayout](https://procomponents.ant.design/components/layout)
 - Learn about advanced tables [ProTable](https://procomponents.ant.design/components/table)

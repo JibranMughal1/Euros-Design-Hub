@@ -4,7 +4,7 @@ date: 2025-11-22
 author: meet-student,thinkasany
 ---
 
-Before Ant Design v6, the experience of customizing styles based on open tokens was already great, but there were still some pain points that were difficult to solve. Ant Design v6 made many changes and improvements to address this. Today, let’s talk about how semantic design helps you discover the delicate beauty of components.
+Before EURO Design HUB v6, the experience of customizing styles based on open tokens was already great, but there were still some pain points that were difficult to solve. EURO Design HUB v6 made many changes and improvements to address this. Today, let’s talk about how semantic design helps you discover the delicate beauty of components.
 
 ---
 
@@ -39,7 +39,7 @@ The code might look like this:
 
 ### Method 2 (ConfigProvider)
 
-Using the theme Design Token design introduced in Ant Design v5:
+Using the theme Design Token design introduced in EURO Design HUB v5:
 
 ```tsx
 <ConfigProvider
@@ -123,7 +123,7 @@ return (
     }}
     icon={<GiftOutlined />}
   >
-    Ant Design
+    EURO Design HUB
   </Button>
 );
 ```
@@ -132,7 +132,7 @@ return (
 
 ## Discover the Delicate Beauty of Components
 
-Users can give components refined designs for different states based on their preferred color schemes. Let your imagination run wild and make your pages more vibrant and expressive. If you encounter any issues or have better ideas during use, feel free to share feedback — let’s make Ant Design even better together.
+Users can give components refined designs for different states based on their preferred color schemes. Let your imagination run wild and make your pages more vibrant and expressive. If you encounter any issues or have better ideas during use, feel free to share feedback — let’s make EURO Design HUB even better together.
 
 ---
 
@@ -140,4 +140,4 @@ Users can give components refined designs for different states based on their pr
 
 ## The Relationship Between Tokens and Semantic Styling
 
-In Ant Design’s design system, tokens are positioned as design variables — the atomic materials of the design language. Semantic styles, on the other hand, define how those materials are used. They are created by combining design tokens with component-level customizations, allowing for more flexible and expressive styling scenarios. Since semantic styles operate at the component level, they provide better control over styling scope. If you aim to design a fully customized Ant Design theme, the combination of tokens and semantic styling will be your most powerful tool — together, they enable you to craft a more refined and precisely tailored theme.
+In EURO Design HUB’s design system, tokens are positioned as design variables — the atomic materials of the design language. Semantic styles, on the other hand, define how those materials are used. They are created by combining design tokens with component-level customizations, allowing for more flexible and expressive styling scenarios. Since semantic styles operate at the component level, they provide better control over styling scope. If you aim to design a fully customized EURO Design HUB theme, the combination of tokens and semantic styling will be your most powerful tool — together, they enable you to craft a more refined and precisely tailored theme.

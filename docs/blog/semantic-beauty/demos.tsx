@@ -36,7 +36,7 @@ const ModalNode = (
       footer: { padding: 10, backgroundColor: '#fafafa' },
     }}
   >
-    <div>🌈 Following the Ant Design specification.</div>
+    <div>🌈 Following the EURO Design HUB specification.</div>
   </InternalPanel>
 );
 
@@ -63,7 +63,7 @@ const DrawerNode = (
     }
   >
     <div>
-      🌈 Following the Ant Design specification, we developed a React UI library antd, interactive
+      🌈 Following the EURO Design HUB specification, we developed a React UI library antd, interactive
       user interfaces.
     </div>
   </InternalDrawer>

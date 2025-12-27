@@ -1,6 +1,6 @@
 ---
 group:
-  title: Ant Design
+  title: EURO Design HUB
   order: 0
 order: 0
 title: Introduction
@@ -32,16 +32,16 @@ We provide comprehensive design guidelines, best practices, resources, and tools
 
 [React](https://react.dev/) is used to encapsulate a library of components which embody our design language. We welcome the community to implement [our design system](/docs/spec/introduce) in other front-end frameworks of their choice.
 
-- [Ant Design of React](/docs/react/introduce)（official implementation）
-- [NG-ZORRO - Ant Design of Angular](http://ng.ant.design)
-- [NG-ZORRO-MOBILE - Ant Design Mobile of Angular](http://ng.mobile.ant.design)
-- [Ant Design of Vue](http://antdv.com)
-- [Ant Design Blazor](https://antblazor.com/)
-- [San UI Toolkit for Ant Design](https://ecomfe.github.io/santd)
+- [EURO Design HUB of React](/docs/react/introduce)（official implementation）
+- [NG-ZORRO - EURO Design HUB of Angular](http://ng.ant.design)
+- [NG-ZORRO-MOBILE - EURO Design HUB Mobile of Angular](http://ng.mobile.ant.design)
+- [EURO Design HUB of Vue](http://antdv.com)
+- [EURO Design HUB Blazor](https://antblazor.com/)
+- [San UI Toolkit for EURO Design HUB](https://ecomfe.github.io/santd)
 - [antizer (ClojureScript)](https://github.com/priornix/antizer)
-- [AtomUI - Ant Design of Avalonia/.NET](https://github.com/atomui/atomui)
+- [AtomUI - EURO Design HUB of Avalonia/.NET](https://github.com/atomui/atomui)
 
-## Who's using Ant Design
+## Who's using EURO Design HUB
 
 - [Ant Financial](http://www.antgroup.com/index.htm?locale=en_US)
 - [Alibaba](http://www.alibaba.com/)
@@ -53,15 +53,15 @@ We provide comprehensive design guidelines, best practices, resources, and tools
 - [Eleme](https://www.ele.me/)
 - [Other Users](https://github.com/ant-design/ant-design/issues/477)
 
-> If your company or products use Ant Design, and you'd like to be added to this growing list, click [here](https://github.com/ant-design/ant-design/issues/477) to leave us a message.
+> If your company or products use EURO Design HUB, and you'd like to be added to this growing list, click [here](https://github.com/ant-design/ant-design/issues/477) to leave us a message.
 
 ## Words From Community
 
 - Hacker News: [Show HN: Antd – A set of high-quality React components](https://news.ycombinator.com/item?id=13053137)
-- Alligator: [Crafting Beautiful UIs in React Using Ant Design](https://alligator.io/react/beautiful-uis-ant-design/)
-- [Introduction to Ant Design](https://blog.logrocket.com/introduction-to-ant-design/)
-- [Build a React App with Ant Design Principles](https://developer.okta.com/blog/2020/09/16/ant-design-react-app)
+- Alligator: [Crafting Beautiful UIs in React Using EURO Design HUB](https://alligator.io/react/beautiful-uis-ant-design/)
+- [Introduction to EURO Design HUB](https://blog.logrocket.com/introduction-to-ant-design/)
+- [Build a React App with EURO Design HUB Principles](https://developer.okta.com/blog/2020/09/16/ant-design-react-app)
 
 ## How to Contribute
 
-Contributions to Ant Design on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving Ant Design - please don't hesitate to reach out to us [here](https://github.com/ant-design/ant-design/issues).
+Contributions to EURO Design HUB on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving EURO Design HUB - please don't hesitate to reach out to us [here](https://github.com/ant-design/ant-design/issues).

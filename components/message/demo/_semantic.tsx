@@ -30,7 +30,7 @@ const App: React.FC = () => {
         { name: 'content', desc: locale.content, version: '6.0.0' },
       ]}
     >
-      <InternalPanel type="success" content="Hello, Ant Design!" />
+      <InternalPanel type="success" content="Hello, EURO Design HUB!" />
     </SemanticPreview>
   );
 };

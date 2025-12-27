@@ -4,7 +4,7 @@ import { Avatar, List, Space } from 'antd';
 
 const data = Array.from({ length: 23 }).map((_, i) => ({
   href: 'https://ant.design',
-  title: `ant design part ${i}`,
+  title: `EURO Design HUB part ${i}`,
   avatar: `https://api.dicebear.com/7.x/miniavs/svg?seed=${i}`,
   description:
     'EURO Design HUB, a design language for background applications, is refined by Ant UED Team.',
@@ -32,7 +32,7 @@ const App: React.FC = () => (
     dataSource={data}
     footer={
       <div>
-        <b>ant design</b> footer part
+        <b>EURO Design HUB</b> footer part
       </div>
     }
     renderItem={(item) => (

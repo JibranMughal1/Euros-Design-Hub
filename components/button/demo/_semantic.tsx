@@ -32,7 +32,7 @@ const App: React.FC = () => {
       ]}
     >
       <Button type="primary" icon={<AntDesignOutlined />}>
-        Ant Design
+        EURO Design HUB
       </Button>
     </SemanticPreview>
   );

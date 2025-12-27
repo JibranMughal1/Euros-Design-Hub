@@ -10,7 +10,7 @@ This guide explains how to enable AI tools like Cursor, Windsurf, and Claude to 
 
 ## What is LLMs.txt?
 
-We support [LLMs.txt](https://llmstxt.org/) files for making the Ant Design documentation available to large language models (LLMs). This feature helps AI tools better understand our component library, its APIs, and usage patterns.
+We support [LLMs.txt](https://llmstxt.org/) files for making the EURO Design HUB documentation available to large language models (LLMs). This feature helps AI tools better understand our component library, its APIs, and usage patterns.
 
 ## Available Routes
 
@@ -23,19 +23,19 @@ We provide several LLMs.txt routes to help AI tools access our documentation:
 
 ### Cursor
 
-Use the `@Docs` feature in Cursor to include the LLMs.txt files in your project. This helps Cursor provide more accurate code suggestions and documentation for Ant Design components.
+Use the `@Docs` feature in Cursor to include the LLMs.txt files in your project. This helps Cursor provide more accurate code suggestions and documentation for EURO Design HUB components.
 
 [Read more about @Docs in Cursor](https://docs.cursor.com/context/@-symbols/@-docs)
 
 ### Windsurf
 
-Reference the LLMs.txt files using `@` or in your `.windsurf/rules` files to enhance Windsurf's understanding of Ant Design components.
+Reference the LLMs.txt files using `@` or in your `.windsurf/rules` files to enhance Windsurf's understanding of EURO Design HUB components.
 
 [Read more about Windsurf Memories](https://docs.windsurf.com/windsurf/cascade/memories)
 
 ### Claude Code
 
-In Claude Code, add `LLMs.txt` to the workspace Knowledge Base (Docs / Context Files) configuration. This allows the file to be referenced during code completion and explanation, improving understanding of Ant Design components.
+In Claude Code, add `LLMs.txt` to the workspace Knowledge Base (Docs / Context Files) configuration. This allows the file to be referenced during code completion and explanation, improving understanding of EURO Design HUB components.
 
 [Learn more about Claude Code document context configuration](https://code.claude.com/docs)
 
@@ -47,16 +47,16 @@ In Gemini CLI, you can specify the `LLMs.txt` file path with the `--context` par
 
 ### Trae
 
-In Trae, place the `LLMs.txt` file into the project’s knowledge sources and enable referencing in the settings. This allows Trae to better support Ant Design components when generating or analyzing code.
+In Trae, place the `LLMs.txt` file into the project’s knowledge sources and enable referencing in the settings. This allows Trae to better support EURO Design HUB components when generating or analyzing code.
 
 [Learn more about Trae knowledge sources](https://trae.ai/docs)
 
 ### Qoder
 
-In Qoder, you can add `LLMs.txt` as an external knowledge file in `.qoder/config.yml`, or temporarily reference it in a conversation with `@docs LLMs.txt`, enhancing support for Ant Design components.
+In Qoder, you can add `LLMs.txt` as an external knowledge file in `.qoder/config.yml`, or temporarily reference it in a conversation with `@docs LLMs.txt`, enhancing support for EURO Design HUB components.
 
 [Learn more about Qoder configuration](https://docs.qoder.com/)
 
 ### Other AI Tools
 
-Any AI tool that supports LLMs.txt can use these routes to better understand Ant Design. Simply point your tool to any of the routes above.
+Any AI tool that supports LLMs.txt can use these routes to better understand EURO Design HUB. Simply point your tool to any of the routes above.

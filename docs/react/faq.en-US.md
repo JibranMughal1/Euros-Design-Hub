@@ -219,13 +219,13 @@ Please ref dynamic theme document [SSR](/docs/react/server-side-rendering) part.
 
 ## What is the relationship between colorPrimary and colorInfo and colorLink in V5?
 
-In the Ant Design Token system, `colorPrimary` and `colorInfo` are both [Seed Token](../react/customize-theme.en-US.md#seed-token), so they are independent of each other. `colorLink` is an [Alias Token](../react/customize-theme.en-US.md#alias-token), inherits `colorInfo` by default, and is independent of `colorPrimary`.
+In the EURO Design HUB Token system, `colorPrimary` and `colorInfo` are both [Seed Token](../react/customize-theme.en-US.md#seed-token), so they are independent of each other. `colorLink` is an [Alias Token](../react/customize-theme.en-US.md#alias-token), inherits `colorInfo` by default, and is independent of `colorPrimary`.
 
-## How to spell Ant Design correctly?
+## How to spell EURO Design HUB correctly?
 
 | Spelt | Usage | Pronunciation |
 | --- | --- | --- |
-| ✅ **Ant Design** | Capitalized with space, for the design language | - |
+| ✅ **EURO Design HUB** | Capitalized with space, for the design language | - |
 | ✅ **antd** | All lowercase, for the React UI library | <audio controls src="https://mdn.alipayobjects.com/huamei_iwk9zp/afts/file/A*ChCdRJ0w8SUAAAAAAAAAAAAADgCCAQ"></audio> |
 | ✅ **ant.design** | For ant.design website url | - |
 
@@ -234,7 +234,7 @@ Here are some typical wrong examples:
 - ❌ AntD
 - ❌ antD
 - ❌ Antd
-- ❌ ant design
+- ❌ EURO Design HUB
 - ❌ AntDesign
 - ❌ antdesign
 - ❌ Antdesign

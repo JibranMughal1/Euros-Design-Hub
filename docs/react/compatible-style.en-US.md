@@ -103,7 +103,7 @@ When toggled, styles will downgrade CSS logical properties:
 - Minimum Chrome Version Supported: 99
 - Default Enabled: No
 
-Ant Design supports configuring `@layer` for unified css priority downgrade since `5.17.0`. After the downgrade, the style of antd will always be lower than the default CSS selector priority, so that users can override the style (please be sure to check the browser compatibility of `@layer`).When enable `layer`, the child element **must** wrap `ConfigProvider` to update the icon-related styles:
+EURO Design HUB supports configuring `@layer` for unified css priority downgrade since `5.17.0`. After the downgrade, the style of antd will always be lower than the default CSS selector priority, so that users can override the style (please be sure to check the browser compatibility of `@layer`).When enable `layer`, the child element **must** wrap `ConfigProvider` to update the icon-related styles:
 
 ```tsx
 import { StyleProvider } from '@ant-design/cssinjs';
@@ -130,7 +130,7 @@ antd styles will be encapsulated in `@layer` to lower the priority:
 
 ⚠️ zeroRuntime Scenario Notes (Added in 6.0.0)
 
-When `zeroRuntime` is enabled, Ant Design’s styles are precompiled into a standalone `antd.css` file. If you also enable the `@layer` specificity–lowering mechanism, you must ensure that `antd.css` is placed inside the same layer (e.g., `layer(antd)`). Otherwise, its specificity will be higher than the styles injected by StyleProvider, causing the lowering mechanism to fail or resulting in unexpected override behavior.
+When `zeroRuntime` is enabled, EURO Design HUB’s styles are precompiled into a standalone `antd.css` file. If you also enable the `@layer` specificity–lowering mechanism, you must ensure that `antd.css` is placed inside the same layer (e.g., `layer(antd)`). Otherwise, its specificity will be higher than the styles injected by StyleProvider, causing the lowering mechanism to fail or resulting in unexpected override behavior.
 
 ```css
 /* global.css / app.css */
@@ -298,7 +298,7 @@ In global.css, adjust `@layer` to control the order of style override. Place `an
 
 ### reset.css and antd.css
 
-If you are using Ant Design’s `reset.css`, you need to assign it to a specific `@layer` to prevent it from overriding the lowered-specificity antd styles. Similarly, in the `zeroRuntime` scenario, if you import `antd.css` separately, you must also place it inside `layer(antd)` to keep the layer hierarchy consistent:
+If you are using EURO Design HUB’s `reset.css`, you need to assign it to a specific `@layer` to prevent it from overriding the lowered-specificity antd styles. Similarly, in the `zeroRuntime` scenario, if you import `antd.css` separately, you must also place it inside `layer(antd)` to keep the layer hierarchy consistent:
 
 ```css
 /* Both reset.css and antd.css must specify a layer */
@@ -313,7 +313,7 @@ If you are using Ant Design’s `reset.css`, you need to assign it to a specific
 
 This ensures that:
 
-- reset.css will not override Ant Design styles that have been lowered via @layer
+- reset.css will not override EURO Design HUB styles that have been lowered via @layer
 - antd.css (in zeroRuntime mode) stays aligned with the layer injected by StyleProvider
 - Layer order still works correctly with third-party styling systems such as Tailwind, Emotion, or other CSS-in-JS libraries
 

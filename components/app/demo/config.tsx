@@ -12,7 +12,7 @@ const MyPage = () => {
   const showNotification = () => {
     notification.info({
       title: 'Notification',
-      description: 'Hello, Ant Design!!',
+      description: 'Hello, EURO Design HUB!!',
     });
   };
 

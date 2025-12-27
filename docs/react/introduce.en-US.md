@@ -7,7 +7,7 @@ title: EURO Design HUB of React
   <source src="https://mdn.alipayobjects.com/huamei_iwk9zp/afts/file/A*ChCdRJ0w8SUAAAAAAAAAAAAADgCCAQ" type="audio/mpeg">
 </audio>
 
-Following the Ant Design specification, we developed a React UI library `antd` (<Audio id="antd-audio">Pronunciation</Audio>) that contains a set of high quality components and demos for building rich, interactive user interfaces.
+Following the EURO Design HUB specification, we developed a React UI library `antd` (<Audio id="antd-audio">Pronunciation</Audio>) that contains a set of high quality components and demos for building rich, interactive user interfaces.
 
 <div class="pic-plus">
   <img width="150" draggable="false" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
@@ -92,15 +92,15 @@ export default App;
 - [Components](/components/overview)
 - [Change Log](/changelog)
 - [rc-components](https://react-component.github.io/)
-- [Ant Design Icons](https://github.com/ant-design/ant-design-icons)
-- [Ant Design Colors](https://github.com/ant-design/ant-design-colors)
-- [🆕 Ant Design X](https://x.ant.design/index-cn)
-- [Ant Design Pro](https://pro.ant.design/)
+- [EURO Design HUB Icons](https://github.com/ant-design/ant-design-icons)
+- [EURO Design HUB Colors](https://github.com/ant-design/ant-design-colors)
+- [🆕 EURO Design HUB X](https://x.ant.design/index-cn)
+- [EURO Design HUB Pro](https://pro.ant.design/)
 - [Pro Components](https://procomponents.ant.design)
-- [Ant Design Mobile](https://mobile.ant.design)
-- [Ant Design Mini](https://mini.ant.design)
-- [Ant Design Charts](https://charts.ant.design)
-- [Ant Design Web3](https://web3.ant.design)
+- [EURO Design HUB Mobile](https://mobile.ant.design)
+- [EURO Design HUB Mini](https://mini.ant.design)
+- [EURO Design HUB Charts](https://charts.ant.design)
+- [EURO Design HUB Web3](https://web3.ant.design)
 - [Landing Pages](https://landing.ant.design)
 - [Ant Motion](https://motion.ant.design)
 - [Scaffold Market](https://scaffold.ant.design)
@@ -108,7 +108,7 @@ export default App;
 - [Versioning Release Note](https://github.com/ant-design/ant-design/wiki/%E8%BD%AE%E5%80%BC%E8%A7%84%E5%88%99%E5%92%8C%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B)
 - [FAQ](/docs/react/faq)
 - [CodeSandbox Template](https://u.ant.design/reproduce) for bug reports
-- [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design)
+- [Awesome EURO Design HUB](https://github.com/websemantics/awesome-ant-design)
 - [Customize Theme](/docs/react/customize-theme)
 - [How to Apply for Being A Collaborator](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator)
 
@@ -118,7 +118,7 @@ React is used to encapsulate a library of components which embody our design lan
 
 ## Companies using antd
 
-Ant Design is widely used for building enterprise-level websites both domestically and internationally. You can refer to wappalyzer for reference data. If your company or product uses Ant Design, let us know [here](https://github.com/ant-design/ant-design/issues/477)!
+EURO Design HUB is widely used for building enterprise-level websites both domestically and internationally. You can refer to wappalyzer for reference data. If your company or product uses EURO Design HUB, let us know [here](https://github.com/ant-design/ant-design/issues/477)!
 
 ## Contributing
 

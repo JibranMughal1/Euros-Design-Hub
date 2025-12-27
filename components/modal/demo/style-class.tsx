@@ -10,7 +10,7 @@ const lineStyle: React.CSSProperties = {
 const sharedContent = (
   <>
     <div style={lineStyle}>
-      Following the Ant Design specification, we developed a React UI library antd that contains a
+      Following the EURO Design HUB specification, we developed a React UI library antd that contains a
       set of high quality components and demos for building rich, interactive user interfaces.
     </div>
     <div style={lineStyle}>🌈 Enterprise-class UI designed for web applications.</div>

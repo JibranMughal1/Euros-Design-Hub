@@ -141,4 +141,4 @@ group:
 
 ## 设计指引 {#design-guide}
 
-- [我的按钮究竟该放哪儿！？| Ant Design 4.0 系列分享](https://zhuanlan.zhihu.com/p/109644406)
+- [我的按钮究竟该放哪儿！？| EURO Design HUB 4.0 系列分享](https://zhuanlan.zhihu.com/p/109644406)

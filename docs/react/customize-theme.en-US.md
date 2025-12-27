@@ -210,7 +210,7 @@ export default App;
 
 ### Zero Runtime {#zero-runtime}
 
-Starting from 6.0.0, we provide `zeroRuntime` mode to further improve application performance. When enabled, Ant Design will no longer generate component styles at runtime, so you need to manually import the style files.
+Starting from 6.0.0, we provide `zeroRuntime` mode to further improve application performance. When enabled, EURO Design HUB will no longer generate component styles at runtime, so you need to manually import the style files.
 
 ```tsx
 import 'antd/dist/antd.css';

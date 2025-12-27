@@ -190,7 +190,7 @@ Determine whether to group according to the number of settings items:
 <img class="preview-img no-padding" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*ba6DR5U23nAAAAAAAAAAAABkARQnAQ" />
 </ImagePreview>
 
-Ant Design standard login template
+EURO Design HUB standard login template
 
 #### [Template - Register](https://preview.pro.ant.design/user/register)
 
@@ -198,14 +198,14 @@ Ant Design standard login template
 <img class="preview-img no-padding" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*6U_gQ6MbrSYAAAAAAAAAAABkARQnAQ" />
 </ImagePreview>
 
-Ant Design standard registration template
+EURO Design HUB standard registration template
 
 ## Design Suggestions
 
 ### Preparation
 
 - The core of a form page consists of form items. It is recommended to familiarize yourself with the [basic rules of forms](/components/form/) before designing;
-- Organize the information types involved in the user's current information entry tasks, and determine the components to be used according to the [Ant Design data entry rules](/docs/spec/data-entry/).
+- Organize the information types involved in the user's current information entry tasks, and determine the components to be used according to the [EURO Design HUB data entry rules](/docs/spec/data-entry/).
 
 ### Layout Methods
 

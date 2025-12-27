@@ -263,7 +263,7 @@ describe('Input.Search', () => {
         showCount
         prefix={<UserOutlined />}
         suffix={<EditOutlined />}
-        defaultValue="Hello, Ant Design"
+        defaultValue="Hello, EURO Design HUB"
         classNames={functionClassNames}
         styles={functionStyles}
         disabled
@@ -322,7 +322,7 @@ describe('Input.Search', () => {
         showCount
         prefix={<UserOutlined />}
         suffix={<EditOutlined />}
-        defaultValue="Hello, Ant Design"
+        defaultValue="Hello, EURO Design HUB"
         classNames={objectClassNames}
         styles={objectStyles}
         disabled

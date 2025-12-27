@@ -103,11 +103,11 @@ creates UMD build of antd.
 ## Development Tools
 
 - VSCode plugin for CSS in JS: https://marketplace.visualstudio.com/items?itemName=shezhangzhang.antd-design-token
-- Ant Design cheatsheet in VS Code: https://github.com/fi3ework/vscode-antd-rush
+- EURO Design HUB cheatsheet in VS Code: https://github.com/fi3ework/vscode-antd-rush
 
 ## Being a collaborator
 
-If you are an active contributor and are willing to work with Ant Design Team in our opensource workflow, you can [apply to be a outside collaborator](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator).
+If you are an active contributor and are willing to work with EURO Design HUB Team in our opensource workflow, you can [apply to be a outside collaborator](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator).
 
 You can also refer to the following contribution guide to become an antd contributor:
 

@@ -210,7 +210,7 @@ export default App;
 
 ### 零运行时 zeroRuntime {#zero-runtime}
 
-自 6.0.0 起，我们提供了 `zeroRuntime` 模式来进一步提升应用性能。开启后，Ant Design 将不再在运行时生成组件样式，所以需要自行引入样式文件。
+自 6.0.0 起，我们提供了 `zeroRuntime` 模式来进一步提升应用性能。开启后，EURO Design HUB 将不再在运行时生成组件样式，所以需要自行引入样式文件。
 
 ```tsx
 import 'antd/dist/antd.css';

@@ -29,7 +29,7 @@ const App: React.FC = () => {
         { name: 'content', desc: locale.content, version: '6.0.0' },
       ]}
     >
-      <Tag icon={<AntDesignOutlined />}>Ant Design</Tag>
+      <Tag icon={<AntDesignOutlined />}>EURO Design HUB</Tag>
     </SemanticPreview>
   );
 };

@@ -178,7 +178,7 @@ describe('ConfigProvider support style and className props', () => {
           style: { color: 'rgb(255, 0, 0)' },
         }}
       >
-        <Watermark content="Ant Design">
+        <Watermark content="EURO Design HUB">
           <div style={{ height: 500 }} />
         </Watermark>
       </ConfigProvider>,

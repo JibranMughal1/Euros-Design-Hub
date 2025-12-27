@@ -19,7 +19,7 @@ const MyPage = () => {
   const showNotification = () => {
     notification.info({
       title: 'Notification topLeft',
-      description: 'Hello, Ant Design!!',
+      description: 'Hello, EURO Design HUB!!',
       placement: 'topLeft',
     });
   };

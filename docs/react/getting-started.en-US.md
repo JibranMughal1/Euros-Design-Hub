@@ -104,13 +104,13 @@ Select a date, and you can see the effect in the preview area on the right:
 
 <img width="420" src="https://gw.alipayobjects.com/zos/antfincdn/JrXptUm1Nz/6b50edc4-3a3c-4b2a-843e-f9f0af2c4667.png" alt="codesandbox screenshot" />
 
-OK! Now that you know the basics of using antd components, you are welcome to explore more components in the codesandbox. When reporting a bug with ant design, we also strongly recommend using codesandbox to provide a reproducible demo as well.
+OK! Now that you know the basics of using antd components, you are welcome to explore more components in the codesandbox. When reporting a bug with EURO Design HUB, we also strongly recommend using codesandbox to provide a reproducible demo as well.
 
 ### 4. Next Steps
 
 During actual real-world project development, you will most likely need a development workflow consisting of `compile/build/deploy/lint/debug/` deployment. You can read the following documents on the subject or use the following scaffolds and examples provided below:
 
-- [Ant Design Pro](https://pro.ant.design/)
+- [EURO Design HUB Pro](https://pro.ant.design/)
 - [create-next-app](https://github.com/ant-design/ant-design-examples/tree/main/examples/with-nextjs-inline-style)
 - More scaffolds at [Scaffold Market](https://scaffold.ant.design/)
 
@@ -118,7 +118,7 @@ During actual real-world project development, you will most likely need a develo
 
 If you use `create-react-app` follow the instructions [here](/docs/react/use-with-create-react-app) instead.
 
-Jest does not support `esm` modules, and Ant Design uses them. In order to test your Ant Design application with Jest you have to add the following to your Jest config :
+Jest does not support `esm` modules, and EURO Design HUB uses them. In order to test your EURO Design HUB application with Jest you have to add the following to your Jest config :
 
 ```json
 "transform": { "^.+\\.(ts|tsx|js|jsx)?$": "ts-jest" }

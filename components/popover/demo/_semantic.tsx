@@ -32,7 +32,7 @@ const BlockList: React.FC<React.PropsWithChildren<PopoverProps>> = (props) => {
         open
         placement="top"
         title="Hello"
-        content="Ant Design love you!"
+        content="EURO Design HUB love you!"
         autoAdjustOverflow={false}
         getPopupContainer={() => divRef.current!}
         {...rest}

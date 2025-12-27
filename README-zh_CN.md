@@ -1,8 +1,8 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="180" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
+<img height="180" src="public/logo.png">
 
-<h1>Ant Design</h1>
+<h1>EURO Design HUB</h1>
 
 一套企业级 UI 设计语言和 React 组件库。
 
@@ -117,13 +117,13 @@ export default App;
 - [所有组件](https://ant.design/components/overview-cn)
 - [更新日志](CHANGELOG.zh-CN.md)
 - [React 底层基础组件](https://react-component.github.io/)
-- [🆕 Ant Design X](https://x.ant.design/index-cn)
-- [Ant Design Pro](https://pro.ant.design/)
+- [🆕 EURO Design HUB X](https://x.ant.design/index-cn)
+- [EURO Design HUB Pro](https://pro.ant.design/)
 - [Pro Components](https://procomponents.ant.design)
-- [Ant Design Mobile](https://mobile.ant.design)
-- [Ant Design Mini](https://mini.ant.design)
-- [Ant Design Charts](https://charts.ant.design)
-- [Ant Design Web3](https://web3.ant.design)
+- [EURO Design HUB Mobile](https://mobile.ant.design)
+- [EURO Design HUB Mini](https://mini.ant.design)
+- [EURO Design HUB Charts](https://charts.ant.design)
+- [EURO Design HUB Web3](https://web3.ant.design)
 - [动效](https://motion.ant.design)
 - [脚手架市场](https://scaffold.ant.design)
 - [设计规范速查手册](https://github.com/ant-design/ant-design/wiki/Ant-Design-%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E7%AE%80%E7%89%88)

@@ -7,7 +7,7 @@ title: EURO Design HUB of React
   <source src="https://mdn.alipayobjects.com/huamei_iwk9zp/afts/file/A*ChCdRJ0w8SUAAAAAAAAAAAAADgCCAQ" type="audio/mpeg">
 </audio>
 
-`antd`（<Audio id="antd-audio">如何发音？</Audio>）是基于 Ant Design 设计体系的 React UI 组件库，适合企业级中后台产品与前台桌面网站。
+`antd`（<Audio id="antd-audio">如何发音？</Audio>）是基于 EURO Design HUB 设计体系的 React UI 组件库，适合企业级中后台产品与前台桌面网站。
 
 <div class="pic-plus">
   <img width="150" draggable="false" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"/>
@@ -92,15 +92,15 @@ export default App;
 - [国内镜像](https://github.com/ant-design/ant-design/issues/25661)
 - [更新日志](/changelog)
 - [React 底层基础组件](https://react-component.github.io/)
-- [Ant Design Icons](https://github.com/ant-design/ant-design-icons)
-- [Ant Design Colors](https://github.com/ant-design/ant-design-colors)
-- [🆕 Ant Design X](https://x.ant.design/index-cn)
-- [Ant Design Pro](https://pro.ant.design/)
+- [EURO Design HUB Icons](https://github.com/ant-design/ant-design-icons)
+- [EURO Design HUB Colors](https://github.com/ant-design/ant-design-colors)
+- [🆕 EURO Design HUB X](https://x.ant.design/index-cn)
+- [EURO Design HUB Pro](https://pro.ant.design/)
 - [Pro Components](https://procomponents.ant.design)
-- [Ant Design Mobile](https://mobile.ant.design)
-- [Ant Design Mini](https://mini.ant.design)
-- [Ant Design Charts](https://charts.ant.design)
-- [Ant Design Web3](https://web3.ant.design)
+- [EURO Design HUB Mobile](https://mobile.ant.design)
+- [EURO Design HUB Mini](https://mini.ant.design)
+- [EURO Design HUB Charts](https://charts.ant.design)
+- [EURO Design HUB Web3](https://web3.ant.design)
 - [动效](https://motion.ant.design)
 - [首页模板集](https://landing.ant.design)
 - [脚手架市场](https://scaffold.ant.design)
@@ -109,17 +109,17 @@ export default App;
 - [版本发布规则](https://github.com/ant-design/ant-design/wiki/%E8%BD%AE%E5%80%BC%E8%A7%84%E5%88%99%E5%92%8C%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B)
 - [常见问题](/docs/react/faq)
 - [CodeSandbox 模板](https://u.ant.design/reproduce) for bug reports
-- [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design)
+- [Awesome EURO Design HUB](https://github.com/websemantics/awesome-ant-design)
 - [定制主题](/docs/react/customize-theme)
 - [成为社区协作成员](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator)
 
 ## 非 React 的实现
 
-我们采用 React 封装了一套 Ant Design 的组件库，其他语言的 UI 实现可以参考[此处](/docs/spec/introduce-cn#%E5%89%8D%E7%AB%AF%E5%AE%9E%E7%8E%B0)。
+我们采用 React 封装了一套 EURO Design HUB 的组件库，其他语言的 UI 实现可以参考[此处](/docs/spec/introduce-cn#%E5%89%8D%E7%AB%AF%E5%AE%9E%E7%8E%B0)。
 
 ## 谁在使用
 
-Ant Design 广泛用于国内外的企业级网站搭建，可以查看 [wappalyzer](https://www.wappalyzer.com/technologies/ui-frameworks/ant-design) 作为参考数据。如果你的公司和产品使用了 Ant Design，欢迎到 [这里](https://github.com/ant-design/ant-design/issues/477) 留言。
+EURO Design HUB 广泛用于国内外的企业级网站搭建，可以查看 [wappalyzer](https://www.wappalyzer.com/technologies/ui-frameworks/ant-design) 作为参考数据。如果你的公司和产品使用了 EURO Design HUB，欢迎到 [这里](https://github.com/ant-design/ant-design/issues/477) 留言。
 
 ## 如何贡献
 

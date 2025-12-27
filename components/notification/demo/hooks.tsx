@@ -23,7 +23,7 @@ const App: React.FC = () => {
     });
   };
 
-  const contextValue = useMemo(() => ({ name: 'Ant Design' }), []);
+  const contextValue = useMemo(() => ({ name: 'EURO Design HUB' }), []);
 
   return (
     <Context.Provider value={contextValue}>

@@ -52,7 +52,7 @@ coverDark: https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*DLUwQ4B2_zQAAA
 
 通用属性参考：[通用属性](/docs/react/common-props)
 
-Ant Design 的布局组件若不能满足你的需求，你也可以直接使用社区的优秀布局组件：
+EURO Design HUB 的布局组件若不能满足你的需求，你也可以直接使用社区的优秀布局组件：
 
 - [react-flexbox-grid](http://roylee0704.github.io/react-flexbox-grid/)
 - [react-blocks](https://github.com/whoisandy/react-blocks/)
